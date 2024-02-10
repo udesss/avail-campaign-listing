@@ -1,0 +1,8 @@
+{
+  "name": "udess94",
+  "logo": "https://i.imgur.com/dEUDFaul.jpg",
+  "rpc_url": "http://IP_VPS_KAMU:9944",
+  "explorer_url": "http://46.250.233.19:4000",
+  "metrics_endpoint": "http://46.250.233.19:9615/metrics",
+  "id": "e31a64ec-7922-4f7e-b3b4-1185f3f730d8"
+}
